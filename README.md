@@ -9,7 +9,7 @@ Ben bir **Backend Developer**'ım, C# ve .NET teknolojileri ile ilgileniyorum. K
 - [Todo List](https://github.com/olguhanhunerli/TodoList)
 
 ## 📫 Bana Ulaşın
-- [LinkedIn](https://www.linkedin.com/in/olguhanhunerli/)
+- [LinkedIn](https://www.linkedin.com/in/olguhan-h%C3%BCnerli-166351222/)
 - [Mail Gönder](mailto:olguhanhunerli@gmail.com)
 
 ![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
