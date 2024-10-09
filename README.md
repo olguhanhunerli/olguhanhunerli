@@ -8,7 +8,7 @@ Ben bir **Backend Developer**'ım, C# ve .NET teknolojileri ile ilgileniyorum. K
 - [Blog Uygulaması](https://github.com/olguhanhunerli/BlogApi)
 - [Todo List](https://github.com/olguhanhunerli/TodoList)
 - [SkillWave]((https://github.com/olguhanhunerli/SkillWave))
-- 
+  
 
 ## 📫 Bana Ulaşın
 - [LinkedIn]((https://www.linkedin.com/in/olguhan-hünerli/))
