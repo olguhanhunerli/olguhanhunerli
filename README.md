@@ -7,7 +7,7 @@ Ben bir **Backend Developer**'ım, C# ve .NET teknolojileri ile ilgileniyorum. K
 - [StoreWay](https://github.com/olguhanhunerli/StoreWay)
 - [Blog Uygulaması](https://github.com/olguhanhunerli/BlogApi)
 - [Todo List](https://github.com/olguhanhunerli/TodoList)
-- [SkillWave]((https://github.com/olguhanhunerli/SkillWave))
+- [SkillWave](https://github.com/olguhanhunerli/SkillWave)
   
 
 ## 📫 Bana Ulaşın
