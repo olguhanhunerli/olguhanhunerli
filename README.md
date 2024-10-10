@@ -11,7 +11,7 @@ Ben bir **Backend Developer**'ım, C# ve .NET teknolojileri ile ilgileniyorum. K
   
 
 ## 📫 Bana Ulaşın
-- [LinkedIn]((https://www.linkedin.com/in/olguhan-hünerli/))
+- [LinkedIn](https://www.linkedin.com/in/olguhan-hünerli/)
 - [Mail Gönder](mailto:olguhanhunerli@gmail.com)
 
 ![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
